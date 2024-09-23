@@ -1,6 +1,7 @@
 # Homework two
 
-##If you don't understand what MVC is or how to use it, watch the class lectures and read the articles I posted in the Homework 2 overview.
+## If you don't understand what MVC is or how to use it, watch the class lectures and read the articles I posted in the Homework 2 overview.
+
 You will be creating an application that is set up the way I have shown you for a simple MVC project.
 Make sure you use npm to create your project and that you have a package.json file
 You need to create four links in the navigation that, when clicked on, display that page's information in the content area of the site. (So when I click on the About link, the information on the page goes away, and the About information is put in its place).
