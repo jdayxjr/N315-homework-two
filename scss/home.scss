@@ -1,0 +1,126 @@
+.section_one {
+  background-image: url("/images/foresthome.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 500px;
+}
+
+.the-bar {
+  width: 100%;
+  height: 30px;
+  background-color: white;
+}
+
+.banner_title {
+  text-align: center;
+  color: #fff;
+  font-size: 48px;
+}
+
+.section_two {
+  display: flex;
+  width: 100%;
+  height: 500px;
+  background-color: aqua;
+  color: #fff;
+}
+
+.box_one {
+  width: 25%;
+  height: 500px;
+  background-image: url("/images/mission.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box_two {
+  width: 75%;
+  height: 500px;
+  background-color: grey;
+}
+
+.mission_text {
+  font-size: 18px;
+}
+
+.section_three {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 500px;
+  background-color: grey;
+}
+
+.content_box {
+  border-radius: 25px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+}
+
+.content-image {
+  background-image: url("/images/summer.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 25px;
+  margin: auto;
+  height: 300px;
+  width: 300px;
+}
+
+.content-image2 {
+  background-image: url("/images/fall.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 25px;
+  margin: auto;
+  height: 300px;
+  width: 300px;
+}
+
+.content-image3 {
+  background-image: url("/images/winter.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 25px;
+  margin: auto;
+  height: 300px;
+  width: 300px;
+}
+
+.section_four {
+  width: 100%;
+  height: 500px;
+  background-color: grey;
+  color: #fff;
+}
+
+.content-four {
+  background-color: darkgrey;
+  margin: auto;
+  width: 600px;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.contentFourText {
+  //   padding: 100px;
+  text-align: center;
+  //   display: flex;
+  // margin: auto;
+}
