@@ -1,6 +1,6 @@
 # Homework two
 
-## If you don't understand what MVC is or how to use it, watch the class lectures and read the articles I posted in the Homework 2 overview.
+## web4 link: https://in-info-web4.luddy.indianapolis.iu.edu/~jaydawso/N315/homework-two/
 
 You will be creating an application that is set up the way I have shown you for a simple MVC project.
 Make sure you use npm to create your project and that you have a package.json file
